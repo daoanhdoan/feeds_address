@@ -1,0 +1,14 @@
+{
+    "name" : "daoanhdoan/feeds_address",
+    "description": "Feeds Address - Provides Address  Feeds target plugins.",
+    "type" : "drupal-custom-module",
+    "license": "GPL-2.0+",
+    "extra": {
+        "installer-name": "feeds_address"
+    },
+    "require": {
+        "drupal/feeds": "*",
+        "drupal/address": "*",
+        "drupal/field": "*"
+    }
+}
